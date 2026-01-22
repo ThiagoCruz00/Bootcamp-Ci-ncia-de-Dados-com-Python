@@ -2,9 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Pandas-Análise%20de%20Dados-orange?style=for-the-badge&logo=pandas" alt="Pandas Badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-red?style=for-the-badge&logo=scikit-learn" alt="Scikit-learn Badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-Notebooks-yellow?style=for-the-badge&logo=jupyter" alt="Jupyter Badge"/>
 </p>
 
 Este repositório é um **guia completo e um laboratório prático** para quem deseja dominar **Ciência de Dados com Python**.  
@@ -52,3 +49,4 @@ O domínio da sintaxe e das estruturas de dados do Python é o primeiro passo pa
 Este repositório foi criado para **aprender na prática**, consolidar conceitos e construir uma base sólida em **Ciência de Dados com Python**.
 
 Sinta-se à vontade para **explorar, clonar e contribuir** 😄
+
